@@ -1,10 +1,28 @@
 # IV_assignment3
 
+| Name       | Student ID |
+| ---------- | ---------- |
+| Yuling Mao | 1379392    |
+|            |            |
+|            |            |
+|            |            |
+
+
+
 ### Public transport
 
-The first edtion of public transport. Place that are being modified: 
+Function:
 
-- add toolkit to the station map
-- add some text instructions,
-- beautify the bar chart
-- beautify the tableau
+- real-time weather
+- routemap
+- navigation
+- Myki top up(Go to the external link)
+- Timetable(Go to the external link)
+- Station map
+- Patronage Weekday(transport mode and station)
+- find locations nearby station
+
+External API:
+
+- openweathermap
+- Google Map
